@@ -1,0 +1,5 @@
+Valor total da venda pode estar depois das seguintes palavras
+     - total
+     - credito
+     - Debito
+     - Dinheiro
